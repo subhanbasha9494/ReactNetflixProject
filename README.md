@@ -15,6 +15,10 @@
  - Created Redux Store with userSlice
  - Implemented signOut
  - Upload profile
+ - Bug Fix - if the user is not logged in Redirect to browse to login page and vise versa
+ - Unsubscribed to the onAuthStateChanged callback
+ - Add hardcoded values to the constans file
+ - 
  
 
 
