@@ -34,7 +34,7 @@
  - Found out TMDB Image CDN
  - Make the browse page amazing with Tailwind css
  - usePopularMovies Custom Hook
- -  
+ - GPT Search Feature
 
  
 
